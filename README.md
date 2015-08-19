@@ -1,2 +1,2 @@
-# hello-world
-jm2's hello-world repository
+Aaand... Hello World!
+Now, this is what I call being off to a magnificent start indeed :)
